@@ -60,6 +60,8 @@ CAPITULO 10
 
 VIDEO
 
+https://youtu.be/HMVaBkFRWqA
+
 CONCLUSIONES 
 
 •	Se concluye que el método de corriente de malla es muy útil para encontrar corrientes en circuitos paralelos haciendo uso de sistemas de ecuaciones o determinantes analizando cada malla que haya en este.
