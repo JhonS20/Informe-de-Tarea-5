@@ -2,6 +2,8 @@
 
 OBJETIVO GENERAL 
 
+• Complementar conocimientos previos, profundizando mas los teoremas y metodos para calculos de corrientes, resistencias, de igual manera aplicar estos conocimientos en circuitos especiales..
+
 OBJETIVO ESPECIFICO
 
 •	Analizar y comprender los conceptos para poder aplicar el método de corriente de mallas a la resolución de ejercicios.
