@@ -66,6 +66,9 @@ CONCLUSIONES
 
 •	Se concluye que el método de corriente de malla es muy útil para encontrar corrientes en circuitos paralelos haciendo uso de sistemas de ecuaciones o determinantes analizando cada malla que haya en este.
 
+•	Los maetodos utilizados nos brindan diversos caminos para resolucion de ejercicios, sin embargo ninguno mantiene un simplificacion de los ejercicios ya que simpre se debere realizar un paso extra de los que se mencionan en cada metodo de calculo de corrientes y voltajes.
+
+• El estudio de lo que son los campos magnéticos abre las puertas a mas aplicaciones sobre circuitos, ya que mediante estos fenómenos se entiende los efectos de la corriente y voltajes en cuerpos magnéticos.
 
 
 BOBLIOGRAFIAS 
