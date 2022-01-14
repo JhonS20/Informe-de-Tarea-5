@@ -75,7 +75,7 @@ BOBLIOGRAFIAS
 
 Khan Academy. 2017. El método de la corriente de malla (artículo) | De la página web: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method#:~:text=El%20m%C3%A9todo%20de%20la%20corriente%20de%20malla%20utiliza%20dos%20t%C3%A9rminos,nuevamente%20al%20punto%20de%20partida.
 
-Floyd, T. L. (2007). Floyd, Principios de Circuitos Eléctricos: Vol. Octava Edición. Pearson Education.
+Floyd, T. L. (2007). Principios de Circuitos Eléctricos: Vol. Octava Edición. Pearson Education.
 
 
 
